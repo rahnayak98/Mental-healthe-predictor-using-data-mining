@@ -1,1 +1,1 @@
-# Mental-healthe-predictor-using-data-mining
+# Mental-health-predictor-using-data-mining
